@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply py-3 px-6 transition duration-300;
+}
+.anim {
+  @apply transition duration-500;
+}
